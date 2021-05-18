@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("72CD1C02-D4F6-419C-A50E-0A6E73B14D12") = "S5_SupplierRFQ (1)", "..\..\AppData\Local\Temp\wy23og45.uzp\S5_SupplierRFQ (1)\S5_SupplierRFQ.usr", "72CD1C02-D4F6-419C-A50E-0A6E73B14D12"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXGJjaGFsbGFcRG93bmxvYWRzXFM1X1N1cHBsaWVyUkZRICgxKS5VU1o8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+UzVfU3VwcGxpZXJSRlEudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyMS0wMy0xNlQxOTozOToxOC41MjY3ODUrMDU6MzA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPgAAAA__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		72CD1C02-D4F6-419C-A50E-0A6E73B14D12.Debug|Any CPU.Build.0 = Debug|Any CPU
+		72CD1C02-D4F6-419C-A50E-0A6E73B14D12.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		72CD1C02-D4F6-419C-A50E-0A6E73B14D12.Release|Any CPU.Build.0 = Release|Any CPU
+		72CD1C02-D4F6-419C-A50E-0A6E73B14D12.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
